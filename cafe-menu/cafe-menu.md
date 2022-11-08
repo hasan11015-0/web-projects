@@ -1,0 +1,1 @@
+A simple project while learning css,this is a ongoing project which will be developed to a full website in future
